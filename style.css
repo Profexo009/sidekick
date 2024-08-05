@@ -1,0 +1,98 @@
+.formr{
+    width: 400px;
+    margin: 12% auto;
+    padding: 50px 0;
+    background: rgb(250, 248, 248);
+    color: #fff;
+    box-shadow: rgb(243, 238, 238);
+}
+.text{
+    margin-left: 10%;
+    text-align: left;
+    color: black;
+}
+.text1{
+    margin-left: 5%;
+    text-align: left;
+    color: black;
+    margin-bottom: 0%;
+}
+.text2{
+    text-align: center;
+    color: black;
+}
+.txt{
+    margin-left: 50px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    height: 0%;
+    color: black;
+}
+.txt1{
+    color: black;
+}
+.txt2{
+    color: black;
+    margin-left: 63%;
+
+}
+.input-box{
+    margin: 31px;
+    width: 90%;
+    border-bottom: 1px solid #fff;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.input-box input{
+    width: 90%;
+}
+.button{
+    margin-top: 5%;
+    width: 92%;
+    height: 4vh;
+    background-color: rgb(219, 84, 129);
+    border-radius: 10px;
+}
+.button2{
+    margin-top: 0%;
+    margin-left: 50px;
+    width: 80%;
+    height: 4vh;
+    background-color: rgb(219, 84, 129);
+    border-radius: 10px;
+}
+.parent_box{
+    width: 400px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5vh;
+    color: black;
+}
+.hr1{
+    width: 150px;
+}
+.text3{
+    font-size: 19px;
+
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap, wrap, wrap-reverse;
+    justify-content: center;
+}
+.fa-facebook{
+    color: rgb(37, 85, 189);
+}
+.fa-google{
+    color: rgb(199, 39, 39);
+    margin-right: 10px;
+}
+.fa-linkedin{
+    color: blue;
+    margin-left: 5px;
+}
